@@ -104,3 +104,5 @@ Per movie_id / title: mean(rating) and count. Default floor 50; a slider (50 and
 Verification
 
 Run streamlit run app.py and confirm all four sections render, the Q1 explanation appears before the count chart, and switching 50 vs 150 updates the top-5 chart.
+
+Cursor made the dashboard but I was not able to add anymore because I ran out of credits.
